@@ -20,6 +20,7 @@ import com.liferay.portal.kernel.workflow.WorkflowConstants;
 
 /**
  * @author Jürgen Kappler
+ * this is tests for ci:test:relevant
  */
 public class StagingBarDisplayContext {
 
