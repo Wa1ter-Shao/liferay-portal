@@ -31,6 +31,7 @@ import java.util.List;
 
 /**
  * @author Jürgen Kappler
+ * this is tests for ci:test:relevant
  */
 public class StagingBarDisplayContext {
 
